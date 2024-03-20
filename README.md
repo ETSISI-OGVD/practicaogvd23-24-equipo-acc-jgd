@@ -1,6 +1,6 @@
 # Practica OGVD Adrián Contreras Castillo y Jaime González Delgado
 
-En este repositorio se encuentran todos los archivos generados en el desarrollo de la práctica.
+En este repositorio se encuentran todos los archivos generados en el desarrollo de la práctica. El trabajo realizado viene recogido en la memoria, **_Practica_2_ogvd_AdrianContreras_JaimeGonzalez.pdf_**
 
 Se parte del dataset **_banana_quality.csv_**: [https://www.kaggle.com/datasets/l3llff/banana](https://www.kaggle.com/datasets/l3llff/banana)
 
